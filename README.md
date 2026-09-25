@@ -4,7 +4,7 @@ Near-black ground, pale accents. Structure is carried by lightness, hue only as 
 
 Built for C++ and Python: functions carry weight, punctuation and scope noise recede.
 
-<!-- screenshots/cpp.png: coming with the first desktop pass -->
+![voidrunner.nvim: C++ and Python in Neovim, with the terminal palette alongside](screenshots/cpp.png)
 
 ## Install
 
